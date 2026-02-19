@@ -3,7 +3,6 @@
 A demonstration of reinforcement learning using Q-learning algorithm implemented in NetLogo. An agent learns to navigate from a start position to a goal while avoiding obstacles through trial and error.
 
 ![NetLogo RL Demo](https://img.shields.io/badge/NetLogo-6.x-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Overview
 
